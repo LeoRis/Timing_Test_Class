@@ -1,0 +1,7 @@
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\bin\Debug\Timing.exe.config
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\bin\Debug\Timing.exe
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\bin\Debug\Timing.pdb
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\obj\Debug\Timing.csproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\obj\Debug\Timing.csproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\obj\Debug\Timing.exe
+C:\Users\Leonid.Ristanovski\source\repos\Timing\Timing\obj\Debug\Timing.pdb
