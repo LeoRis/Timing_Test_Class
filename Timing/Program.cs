@@ -17,7 +17,7 @@ namespace Timing
             sizeOfTheArray = Convert.ToInt32(Console.ReadLine());
 
             int[] nums = new int[sizeOfTheArray];
-            BuildArray(nums, sizeOfTheArray);
+            BuildArray(nums);
             TimeSpan startTime;
             TimeSpan duration;
 
@@ -32,9 +32,9 @@ namespace Timing
             Console.ReadLine();
         }
 
-        public static void BuildArray(int[] array, int size)
+        public static void BuildArray(int[] array)
         {
-            for(int i = 0; i <= size; i++)
+            for(int i = 0; i <= array.GetUpperBound(0); i++)
             {
                 array[i] = i;
             }
@@ -42,7 +42,7 @@ namespace Timing
 
         public static void DisplayNums(int[] array)
         {
-            for(int i = 0; i < array.GetUpperBound(0); i++)
+            for(int i = 0; i <= array.GetUpperBound(0); i++)
             {
                 Console.Write(array[i] + " ");
             }
